@@ -1,5 +1,5 @@
 # Brian-3112-CRUD
-CRUD-MONGODB
+CRUD-MONGODB-NODE.JS
 
 Al ingresar estaran los diferentes archivos del crud, Es decir en un archivo estaran la creacion de la base de datos y la creacion de las colecciones, en otro archivo estaran los insertMany e insertOne de las 3 colecciones, en otro los find y findOne de las mismas 3 coleccionesn, asi mismo con las demasa operaciones crud como updateMany, updateOne, deleteMany, deleteOne, drop colletions, drop database.
 
